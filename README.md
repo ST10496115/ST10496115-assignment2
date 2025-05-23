@@ -14,4 +14,4 @@ open in android studio
 
 run on emulator 
 https://www.youtube.com/shorts/Ud4QPkHGfjE
-
+https://github.com/ST10496115/ST10496115-assignment2
