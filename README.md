@@ -13,4 +13,5 @@ easy to use and offline ready
 open in android studio
 
 run on emulator 
+https://www.youtube.com/shorts/Ud4QPkHGfjE
 
